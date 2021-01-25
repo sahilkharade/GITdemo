@@ -12,8 +12,5 @@ def multiply(x,y):
     
 # Perform division
 def divide(x,y):
-    if y==0:
-        return Divide_By_0_Error
+    pass
     return x/y
-def square(x):
-    return x*x
